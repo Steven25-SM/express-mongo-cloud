@@ -16,3 +16,4 @@
 
 ## Advertencia
 El laboratorio también exige desplegar el proyecto JWT del laboratorio 07; este código es exclusivamente el CRUD previo y CI/CD de la parte 1, no implementa JWT.
+# Este laboratorio fue desplegado con Render
